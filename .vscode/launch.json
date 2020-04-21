@@ -1,0 +1,169 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - X",
+            "request": "launch",
+            "mainClass": "p1.X",
+            "projectName": "HOME_WORK"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "six.Main",
+            "projectName": "HOME_WORK"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImportantUniversity",
+            "request": "launch",
+            "mainClass": "university.ImportantUniversity",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestStaticVar",
+            "request": "launch",
+            "mainClass": "onclass.TestStaticVar",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cartoon",
+            "request": "launch",
+            "mainClass": "onclass.Cartoon",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Triangle",
+            "request": "launch",
+            "mainClass": "triangle.Triangle",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "onclass.Student",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circle",
+            "request": "launch",
+            "mainClass": "src.Circle",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circle",
+            "request": "launch",
+            "mainClass": "app.Circle",
+            "projectName": "circle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circular",
+            "request": "launch",
+            "mainClass": "homework.fourth_week.circular.src.app.Circular",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circle",
+            "request": "launch",
+            "mainClass": "circle.Circle",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circular",
+            "request": "launch",
+            "mainClass": "circular.Circular",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circular",
+            "request": "launch",
+            "mainClass": "Circular",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circular",
+            "request": "launch",
+            "mainClass": "circular.Circular",
+            "projectName": "fourth_week"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circle",
+            "request": "launch",
+            "mainClass": "circle.Circle",
+            "projectName": "fourth_week"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circle",
+            "request": "launch",
+            "mainClass": "homework.fourth_week.src.circle.Circle",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PassTest",
+            "request": "launch",
+            "mainClass": "PassTest",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UseMyDate",
+            "request": "launch",
+            "mainClass": "UseMyDate",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - small",
+            "request": "launch",
+            "mainClass": "small.small",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "homework.hello",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "test.src.app.App",
+            "projectName": "java_716e730c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

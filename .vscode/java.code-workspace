@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Microsoft VS Code\\java"
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": {
+			"include": [
+				"lib/**/*.jar",
+				"d:\\compiler\\javaJDK\\lib\\junit-jupiter-api-5.6.1.jar"
+			],
+			"exclude": [
+				"c:\\Users\\Administrator\\Desktop\\junit-jupiter-api-5.6.1.jar"
+			]
+		}
+	}
+}
