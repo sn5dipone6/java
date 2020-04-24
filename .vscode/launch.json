@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "cn.campsg.java.experiment.MainClass",
+            "projectName": "SE_JAVA_EXP_E034"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - X",
             "request": "launch",
             "mainClass": "p1.X",
