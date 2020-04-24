@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Mainclass",
+            "request": "launch",
+            "mainClass": "eight.second.Mainclass",
+            "projectName": "HOME_WORK"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Animals",
+            "request": "launch",
+            "mainClass": "eight.first.Animals",
+            "projectName": "HOME_WORK"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MainClass",
             "request": "launch",
             "mainClass": "cn.campsg.java.experiment.MainClass",
