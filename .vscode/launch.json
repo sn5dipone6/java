@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FindDups",
+            "request": "launch",
+            "mainClass": "onclass.nine.FindDups",
+            "projectName": "HOME_WORK"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Mainclass",
             "request": "launch",
             "mainClass": "eight.second.Mainclass",
