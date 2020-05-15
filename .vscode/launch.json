@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "cn.campsg.java.experiment.MainClass",
+            "projectName": "SE_JAVA_EXP_E037"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "cn.campsg.java.experiment.MainClass",
+            "projectName": "SE_JAVA_EXP_E022"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - first_exception",
+            "request": "launch",
+            "mainClass": "onclass.first_exception",
+            "projectName": "CORE_C07_037"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld2",
+            "request": "launch",
+            "mainClass": "HelloWorld2",
+            "projectName": "CORE_C07_037"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FindDups",
             "request": "launch",
             "mainClass": "onclass.nine.FindDups",
