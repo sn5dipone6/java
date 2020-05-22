@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "winlogin.test",
+            "projectName": "HOME_WORK"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WinLogin",
+            "request": "launch",
+            "mainClass": "winlogin.WinLogin",
+            "projectName": "HOME_WORK"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MainClass",
             "request": "launch",
             "mainClass": "cn.campsg.java.experiment.MainClass",
